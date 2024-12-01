@@ -13,12 +13,12 @@ The task is to update an existing TypeScript command-line application that build
 
 ## Table of Contents
 
--Description
--Installation
--Usage
--License
--Contributing
--Tests
+-Description     
+-Installation      
+-Usage        
+-License      
+-Contributing       
+-Tests         
 -Questions
 
 ## Installation
