@@ -47,7 +47,7 @@ command: `npm run start`
 ## License
 This project is licensed under the MIT License and Apache 2.0
 
-## Contributing
+## Contribution
 Contributions are welcome! Please feel free to submit pull requests.
 
 ## Tests
