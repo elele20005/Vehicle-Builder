@@ -63,7 +63,7 @@ command: `npm start`
 ## Helpful TypeScript Resources
 
 
-Classes: `https://www.typescriptlang.org/docs/handbook/2/classes.html`
+Classes: https://www.typescriptlang.org/docs/handbook/2/classes.html
 
 
 Object types: https://www.typescriptlang.org/docs/handbook/2/objects.html
