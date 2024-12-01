@@ -31,12 +31,12 @@ Clone the repository via SSH:
    Navigate to the Project Directory
 
 
- command: cd Vehicle_Builder
+ command: cd Vehicle-Builder
  
 Install Dependencies
 
 Copy code
-command:  npm install
+command: `npm install`
 
 ## Usage
 
