@@ -78,7 +78,7 @@ More on functions: https://www.typescriptlang.org/docs/handbook/2/functions.html
 
 ## Walkthrough video that demonstrates its functionality. 
 
- -Screencastify: https://drive.google.com/file/d/1Hl1itSqb8o8p5riNi5h_dAZqUBwXwCjn/view
+ -Screencastify: https://drive.google.com/file/d/1KNy_KwLJuAmf0EfjWuViMYSOpJUm64Xh/view
 
 
 ## For more questions, please reach out to:
