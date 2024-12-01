@@ -26,7 +26,7 @@ To install and run this application locally, please follow these steps:
 
 Clone the repository via SSH:
 
-git clone git@github.com:elele20005/Vehicle_Builder.git
+`git clone git@github.com:elele20005/Vehicle_Builder.git`
        
    Navigate to the Project Directory
 
