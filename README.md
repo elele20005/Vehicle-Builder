@@ -42,7 +42,7 @@ command: `npm install`
 
 To start the application, run:
 
-command: npm run start
+command: `npm run start`
 
 ## License
 This project is licensed under the MIT License and Apache 2.0
@@ -57,7 +57,7 @@ To test the application, run the Builder and verify that outputs match expected 
 ## Additional Requirements
 This Challenge combines many of the skills covered so far. In addition to the user story and acceptance criteria, we've provided some guidelines to help you get started. Your application should use Inquirer for collecting input from the user. The application will be invoked by using the following command:
 
-command:  npm start 
+command: `npm start` 
 
 
 ## Helpful TypeScript Resources
